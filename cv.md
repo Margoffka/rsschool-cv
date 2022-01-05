@@ -8,12 +8,15 @@
 - **E-mail:** margousha8@gmail.com
 - **GitHub:** [Margoffka](https://github.com/Margoffka)
 - **Telegram:** @margoffka_k
+- **Discord:** Margarita (@Margoffka)
 
 ---
 
 ### About Me:
 
-then I'll come up with :)
+I am a third-year student of BSUIR. I want to find my place in IT and develop my skills every day. 
+My strengths are sociability, teamwork and commitment. I believe that the courses and my persistence 
+will give excellent results and I will be able to work in pleasure.
 
 ---
 
@@ -27,10 +30,9 @@ then I'll come up with :)
 
 ### Code Example:
 
-    var i;
-    for (i=0; i<5; i++) {
-      console.log(i);
-    }
+    function multiply(a, b){
+  a * b
+}
 
 ---
 
