@@ -1,1 +1,1 @@
-https://Margoffka.github.io/rsschool-cv/cv
+https://Margoffka.github.io/rsschool-cv/
